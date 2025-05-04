@@ -18,7 +18,8 @@ This project is a centralized web application developed for Barangay South Signa
         - Historical hazard map
         - Flood hazard map  
       ![Safety Section](Documentation/Safety.png)
-      This section also outlines safety protocols in case of calamities, covering the Early Warning System (EWS), such as:
+
+      - This section also outlines safety protocols in case of calamities, covering the Early Warning System (EWS), such as:
         - Siren warnings
         - Public address systems
         - Text brigades
