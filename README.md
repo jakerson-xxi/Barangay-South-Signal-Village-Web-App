@@ -5,7 +5,6 @@ This project is a centralized web application developed for Barangay South Signa
 ## 🚀 Features
 
 - 📄 **Landing Page**
-![Barangay Logo](Documentation/Home Page.png)
 
     - 🏘️ **About Us**  
       Contains detailed information about Barangay South Signal Village, including the barangay profile, history, mission, vision, demography, and the organizational chart of the barangay officials.
