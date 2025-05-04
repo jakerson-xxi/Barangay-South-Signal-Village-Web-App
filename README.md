@@ -5,10 +5,10 @@ This project is a centralized web application developed for Barangay South Signa
 ## 🚀 Features
 
 - 📄 **Landing Page**
-    ![Barangay Logo](Documentation/Home%20Page.png)
+    ![Landing Page](Documentation/Home%20Page.png)
     - 🏘️ **About Us**  
       Contains detailed information about Barangay South Signal Village, including the barangay profile, history, mission, vision, demography, and the organizational chart of the barangay officials.
-
+![About Us](Documentation/About%20Us.png)
     - 🛡️ **Safety Section**  
       Displays safety guidelines and the Map Book of the barangay (provided by the Philippine Red Cross), which includes:
         - Base map
@@ -17,14 +17,14 @@ This project is a centralized web application developed for Barangay South Signa
         - Land use map
         - Historical hazard map
         - Flood hazard map  
-      
+      ![Safety Section](Documentation/Safety.png)
       This section also outlines safety protocols in case of calamities, covering the Early Warning System (EWS), such as:
         - Siren warnings
         - Public address systems
         - Text brigades
         - Barangay Roving Team
         - Designated evacuation areas
-
+![EWS](Documentation/EWS.png)
     - 📞 **Contacts**  
       Displays contact information, including:
         - Barangay hotlines
