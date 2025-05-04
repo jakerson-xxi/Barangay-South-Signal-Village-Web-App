@@ -86,8 +86,9 @@ This project is a centralized web application developed for Barangay South Signa
   - **JavaScript (JS)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" />  
   These technologies will support the development of a responsive and user-friendly UI/UX design.
 - 🖥️ For the **backend**:
-  - **Laravel** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" />, a robust PHP framework
+  - **Laravel** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="20" />, a robust PHP framework
   - **MySQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> as the relational database system
+
 
 
 ## 👤 User Roles
