@@ -31,15 +31,16 @@ This project is a centralized web application developed for Barangay South Signa
         - Barangay hotlines
         - Emergency hotline
         - Embedded Google Map for tracking the Barangay South Signal Village Office
-
+![Contacts](Documentation/Contact%20Page.png)
     - 📃 **Required Guidelines**  
       Lists all available documents that can be requested, with:
         - Cost per document
         - Manual request instructions
         - Estimated processing time
         - Required documents
-
+![Required](Documentation/Requirements.png)
 - 👥 **Resident Dashboard**
+  ![Resident](Documentation/Resident%20Dashboard.png)
     - 📬 **Online Request**  
       Registered residents can request barangay documents online. After submitting a request, the system sends an email notification with a tracking key.
       
@@ -54,6 +55,8 @@ This project is a centralized web application developed for Barangay South Signa
 
     - 💳 **Online Payment**  
       Residents can pay for requested documents via e-wallets such as GrabPay, Maya, and GCash — no longer limited to PayMongo.
+      ![Payment](Documentation/Payment.png)
+      ![Payment](Documentation/Payment%202.png)
 
 - 🧑‍💼 **Barangay Employee Dashboard**
     - Process online requests and concerns submitted by residents
@@ -61,6 +64,8 @@ This project is a centralized web application developed for Barangay South Signa
     - Manage barangay employee and resident accounts
     - Generate reports
     - Oversee the entire web application system
+ 
+      ![Employee](Documentation/Admin%20Portal.png)
 
 - 🆔 **ID Analyzer**  
   During registration, residents upload the front and back of their valid ID and a face photo. An Identity Verification API is used to:
@@ -68,7 +73,7 @@ This project is a centralized web application developed for Barangay South Signa
     - Match the face to the ID
     - Extract and verify data such as address, age, and expiration date  
   Verified users can then proceed with registration.
-
+![Analyzer](Documentation/ID%20Analyzer.png)
 - 🔐 **Security**
     - Google reCAPTCHA integration to protect against bots and spam
 
