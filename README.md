@@ -120,7 +120,7 @@ npm run dev
 
 # 8. Serve the application
 php artisan serve
-
+```
 ## 👥 Team Members
 
 | Full Name              | Email                               | Role(s)                                                |
