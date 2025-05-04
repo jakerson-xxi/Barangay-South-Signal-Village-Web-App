@@ -89,7 +89,19 @@ This project is a centralized web application developed for Barangay South Signa
   - **Laravel** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="20" />, a robust PHP framework
   - **MySQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> as the relational database system
 
+## 🏗️ System Architecture: MVC Pattern
 
+The system follows the **Model-View-Controller (MVC)** architecture:
+
+- **Model**: Handles data logic and database interaction (MySQL).
+- **View**: The user interface built with HTML, CSS, and JavaScript.
+- **Controller**: Manages user input and updates the model and view (Laravel handles this layer).
+
+This separation ensures better maintainability, scalability, and organization of the codebase.
+
+![MVC Architecture](https://selftaughtcoders.com/wp-content/uploads/2015/07/mvc_diagram_with_routes.png)
+
+For more information on how to implement Laravel's MVC structure, refer to [this tutorial](https://selftaughtcoders.com/from-idea-to-launch/lesson-17/laravel-5-mvc-application-in-10-minutes/).
 
 ## 👤 User Roles
 
