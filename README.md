@@ -135,8 +135,8 @@ php artisan serve
 
 ## 📂 Links
 
-- **Demo:** [Demo Video]([Documentation/Demo.mp4](https://github.com/jakerson-xxi/barangaysouthsignal/blob/main/Documentation/demo.mp4))
-- **Documentation:** [Team Paper]([Documentation/TEAM DEVELOPMENTALITY - PAPER - AFTER PROOFREADING.docx](https://github.com/jakerson-xxi/barangaysouthsignal/blob/main/Documentation/TEAM%20DEVELOPMENTALITY%20-%20PAPER%20-%20AFTER%20PROOFREADING.docx))
+- **Demo:** [Demo Video]([Documentation/demo.mp4])
+- **Documentation:** [Team Paper]([Documentation/TEAM DEVELOPMENTALITY - PAPER - AFTER PROOFREADING.docx]([Documentation/TEAM%20DEVELOPMENTALITY%20-%20PAPER%20-%20AFTER%20PROOFREADING.docx])
 
 
 ## 📩 Contact
