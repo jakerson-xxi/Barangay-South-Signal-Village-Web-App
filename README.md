@@ -1,4 +1,4 @@
-# 📘 Laravel Project - Project Name
+# 📘 Capstone Project - Barangay South Signal Village Web App
 ## 📖 Description
 This project is a centralized web application developed for Barangay South Signal Village to modernize and streamline their document request process. The current manual system involves paper-based forms, in-person submissions, and logbook record-keeping, which can be time-consuming and inefficient. Our proposed web app provides residents with an easier, faster way to request barangay documents online, reducing manual workload and improving overall service delivery through real-time processing, digital records, and automated workflows.
 
