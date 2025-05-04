@@ -136,7 +136,7 @@ php artisan serve
 ## 📂 Links
 
 - **Demo:** [Demo Video](Documentation/demo.mp4)
-- **Documentation:** [Team Paper]([Documentation/TEAM DEVELOPMENTALITY - PAPER - AFTER PROOFREADING.docx](Documentation/TEAM%20DEVELOPMENTALITY%20-%20PAPER%20-%20AFTER%20PROOFREADING.docx)
+- **Documentation:** [Documentation Paper](Documentation/TEAM%20DEVELOPMENTALITY%20-%20PAPER%20-%20AFTER%20PROOFREADING.docx)
 
 
 ## 📩 Contact
