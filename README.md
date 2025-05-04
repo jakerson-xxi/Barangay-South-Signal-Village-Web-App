@@ -142,6 +142,6 @@ php artisan serve
 ## 📩 Contact
 
 If you would like to access or use any of the above resources, please contact me at:  
-[Jakerson Bermudo](mailto:jakersonbermudo98@gmail.com)  
+[jakersonbermudo98@gmail.com](mailto:jakersonbermudo98@gmail.com)  
 
 **Note:** Do not use any of the above resources without prior consent.
