@@ -7,6 +7,8 @@ This project is a centralized web application developed for Barangay South Signa
 - 📄 **Landing Page**
     - 🏘️ **About Us**  
       Contains detailed information about Barangay South Signal Village, including the barangay profile, history, mission, vision, demography, and the organizational chart of the barangay officials.
+      ![Uploading Picture1.png…]()
+
       
     - 🛡️ **Safety Section**  
       Displays safety guidelines and the Map Book of the barangay (provided by the Philippine Red Cross), which includes:
