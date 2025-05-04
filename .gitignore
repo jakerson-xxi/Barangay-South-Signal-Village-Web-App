@@ -14,3 +14,7 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+# Ignore all files inside public/residentID
+public/residentID/*
+# But keep the residentID directory
+!public/residentID/
