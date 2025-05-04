@@ -79,15 +79,16 @@ This project is a centralized web application developed for Barangay South Signa
 
 ## 🛠️ Technical Background
 
-- 🎨 The wireframe for the web-based application will be designed using **Figma**.
+- 🎨 The wireframe for the web-based application will be designed using **Figma** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" />.
 - 💻 For the **frontend**:
-  - **HTML** (Hypertext Markup Language)
-  - **CSS** (Cascading Style Sheets)
-  - **JavaScript (JS)**  
+  - **HTML** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />
+  - **CSS** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" />
+  - **JavaScript (JS)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" />  
   These technologies will support the development of a responsive and user-friendly UI/UX design.
 - 🖥️ For the **backend**:
-  - **Laravel**, a robust PHP framework
-  - **MySQL** as the relational database system
+  - **Laravel** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="20" />, a robust PHP framework
+  - **MySQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> as the relational database system
+
 
 ## 👤 User Roles
 
