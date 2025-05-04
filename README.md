@@ -1,4 +1,4 @@
-# 📘 Laravel Project - Project Name
+![image](https://github.com/user-attachments/assets/c9b6bff8-c28f-4cb6-9429-a5aa8872634c)# 📘 Laravel Project - Project Name
 ## 📖 Description
 This project is a centralized web application developed for Barangay South Signal Village to modernize and streamline their document request process. The current manual system involves paper-based forms, in-person submissions, and logbook record-keeping, which can be time-consuming and inefficient. Our proposed web app provides residents with an easier, faster way to request barangay documents online, reducing manual workload and improving overall service delivery through real-time processing, digital records, and automated workflows.
 
@@ -99,9 +99,9 @@ The system follows the **Model-View-Controller (MVC)** architecture:
 
 This separation ensures better maintainability, scalability, and organization of the codebase.
 
-![MVC Architecture](https://selftaughtcoders.com/wp-content/uploads/2015/07/mvc_diagram_with_routes.png)
+![MVC Architecture](https://www.interviewbit.com/blog/wp-content/uploads/2022/05/Working-of-MVC-2048x1372.png)
 
-For more information on how to implement Laravel's MVC structure, refer to [this tutorial](https://selftaughtcoders.com/from-idea-to-launch/lesson-17/laravel-5-mvc-application-in-10-minutes/).
+For more information on how to implement Laravel's MVC structure, refer to [this tutorial](https://www.interviewbit.com/blog/mvc-architecture/).
 
 ## 👤 User Roles
 
