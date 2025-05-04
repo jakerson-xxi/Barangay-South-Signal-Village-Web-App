@@ -56,7 +56,7 @@ This project is a centralized web application developed for Barangay South Signa
     - 💳 **Online Payment**  
       Residents can pay for requested documents via e-wallets such as GrabPay, Maya, and GCash — no longer limited to PayMongo.
       ![Payment](Documentation/Payment.png)
-      ![Payment](Documentation/Payment%202.png)
+      ![Payment2](Documentation/Payment%202.png)
 
 - 🧑‍💼 **Barangay Employee Dashboard**
     - Process online requests and concerns submitted by residents
